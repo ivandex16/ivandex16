@@ -11,7 +11,7 @@ Customize sections like Projects and add more badges if you like.
 
 Full‑stack (JavaScript/TypeScript) developer focused on building robust APIs and scalable web applications. I like clean architecture, orderly versioning, and writing maintainable code.
 
-- 🔭 Currently working on: (add your current project here)
+
 - 🌱 Learning / deepening: Clean Architecture, design patterns, query optimization, scalability.
 - 💬 Ask me about: Node.js, NestJS, React, state management with Redux, databases (MongoDB & SQL Server).
 - 📫 Contact: [Email](mailto:ivan_cabegarces@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/ivancbgz)
