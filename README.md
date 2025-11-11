@@ -11,7 +11,7 @@ Personaliza secciones como Proyectos y añade más badges si lo deseas.
 
 Desarrollador backend y frontend (JavaScript/TypeScript) enfocado en construir APIs robustas y aplicaciones web escalables. Me gusta el diseño limpio de arquitecturas, el versionado ordenado y escribir código mantenible.
 
-- 🔭 Actualmente trabajando en: (añade aquí tu proyecto actual)
+
 - 🌱 Aprendiendo / profundizando: Arquitectura limpia, patrones de diseño, optimización de consultas y escalabilidad.
 - 💬 Pregúntame sobre: Node.js, NestJS, React, manejo de estado con Redux, bases de datos (MongoDB y SQL Server).
 - 📫 Contacto: [Email](mailto:ivan_cabegarces@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/ivancbgz)
