@@ -1,24 +1,24 @@
 <!--
-README de perfil de GitHub de Ivan Cabeza (ivandex16).
-Personaliza secciones como Proyectos y añade más badges si lo deseas.
+GitHub profile README for Ivan Cabeza (ivandex16).
+Customize sections like Projects and add more badges if you like.
 -->
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ivandex16&label=Visitas&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ivandex16&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-# 👋 ¡Hola! Soy Ivan Cabeza
+# 👋 Hi there! I'm Ivan Cabeza
 
-Desarrollador backend y frontend (JavaScript/TypeScript) enfocado en construir APIs robustas y aplicaciones web escalables. Me gusta el diseño limpio de arquitecturas, el versionado ordenado y escribir código mantenible.
+Full‑stack (JavaScript/TypeScript) developer focused on building robust APIs and scalable web applications. I like clean architecture, orderly versioning, and writing maintainable code.
 
-
-- 🌱 Aprendiendo / profundizando: Arquitectura limpia, patrones de diseño, optimización de consultas y escalabilidad.
-- 💬 Pregúntame sobre: Node.js, NestJS, React, manejo de estado con Redux, bases de datos (MongoDB y SQL Server).
-- 📫 Contacto: [Email](mailto:ivan_cabegarces@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/ivancbgz)
+- 🔭 Currently working on: (add your current project here)
+- 🌱 Learning / deepening: Clean Architecture, design patterns, query optimization, scalability.
+- 💬 Ask me about: Node.js, NestJS, React, state management with Redux, databases (MongoDB & SQL Server).
+- 📫 Contact: [Email](mailto:ivan_cabegarces@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/ivancbgz)
 
 ---
 
-## 🧰 Stack Principal
+## 🧰 Main Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
@@ -33,28 +33,28 @@ Desarrollador backend y frontend (JavaScript/TypeScript) enfocado en construir A
 
 ---
 
-## 🗂️ Principios y Buenas Prácticas
+## 🗂️ Principles & Best Practices
 
-- Arquitectura modular y desacoplada.
-- Validación y sanitización de datos desde la capa de entrada.
-- Uso de DTOs y tipado fuerte con TypeScript.
-- Manejo adecuado de errores y logs estructurados.
-- Control de estado predecible en frontend (Redux).
-- Índices y estrategias de consulta en MongoDB y SQL Server.
-
----
-
-## 🚀 Proyectos Destacados
-
-- [api-nest-ecommerce](URL_DEL_REPO) — API REST con NestJS, autenticación JWT, autorización por roles e integración con base de datos.
-- [react-dashboard](URL_DEL_REPO) — Panel administrativo con React + Redux, componentes reutilizables y consumo de API.
-- [sync-data-service](URL_DEL_REPO) — Servicio para sincronización entre MongoDB y SQL Server, colas y tareas programadas.
-
-Sugerencia: Fija (Pin) estos repos en tu perfil desde la opción "Customize your pins".
+- Modular, decoupled architecture.
+- Validation & sanitization at the input layer.
+- Use of DTOs and strong typing with TypeScript.
+- Proper error handling and structured logging.
+- Predictable state management on the frontend (Redux).
+- Indexing and efficient query strategies in MongoDB & SQL Server.
 
 ---
 
-## 📊 Estadísticas
+## 🚀 Featured Projects
+
+- [api-nest-ecommerce](URL_OF_REPO) — REST API with NestJS, JWT authentication, role-based authorization, and database integration.
+- [react-dashboard](URL_OF_REPO) — Admin dashboard with React + Redux, reusable components, and API consumption.
+- [sync-data-service](URL_OF_REPO) — Service for synchronization between MongoDB and SQL Server, queues, and scheduled tasks.
+
+Tip: Pin these repositories on your profile using "Customize your pins".
+
+---
+
+## 📊 GitHub Stats
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -73,16 +73,16 @@ Sugerencia: Fija (Pin) estos repos en tu perfil desde la opción "Customize your
 
 ---
 
-## 📬 Enlaces
+## 📬 Links
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ivancbgz)
 - ✉️ [Email](mailto:ivan_cabegarces@hotmail.com)
 
 ---
 
-## 📝 Próximos Objetivos
+## 📝 Upcoming Goals
 
-- Integrar pruebas automatizadas (unitarias y de integración).
-- Profundizar en patrones avanzados (CQRS, Event Sourcing).
-- Implementar CI/CD y contenedores para despliegues consistentes.
-- Mejorar observabilidad (metrics & tracing).
+- Integrate automated tests (unit & integration).
+- Deep dive into advanced patterns (CQRS, Event Sourcing).
+- Implement CI/CD and containerized deployments.
+- Improve observability (metrics & tracing).
